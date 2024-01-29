@@ -1,0 +1,45 @@
+cd C:\\Users\\HUICHO9855\\GitHub\\AdressBook\\src\\main\\java\\clase\\addressbook
+Running GitHub Compile on save execution phase execution is skipped
+************************************ Práctica Addresbook ***********************************************
+Building AddressBook 1.0-SNAPSHOT
+------------------------------------[ jar ]-------------------------------------------------------------
+
+--- exec-maven-plugin3.0.0exec (default-cli) @AddressBook ---
+**AGENDA TELEFONICA**
+
+
+Seleccione la opción deseada:
+
+CARGAR DATOS ---------------- [1]
+GUARDAR DATOS --------------- [2]
+MOSTRAR CONTACTOS ----------- [3]
+NUEVO NUMERO ---------------- [4]
+BORRAR CONTACTO ------------- [5]
+ORDENAR CONTACTOS ----------- [6]
+LLAMAR CONTACTOS ------------ [7]
+SALIR ----------------------- [8]
+1
+
+Contactos cargados
+
+Seleccione la opción deseada:
+
+CARGAR DATOS ---------------- [1]
+GUARDAR DATOS --------------- [2]
+MOSTRAR CONTACTOS ----------- [3]
+NUEVO NUMERO ---------------- [4]
+BORRAR CONTACTO ------------- [5]
+ORDENAR CONTACTOS ----------- [6]
+LLAMAR CONTACTOS ------------ [7]
+SALIR ----------------------- [8]
+3
+
+Telefono | Nombre
+12345678 Rodrigo
+22225758 Lucita
+23456781 José Luis
+34567812 Marcos
+39483728 Victoria
+56781234 Claudia
+67812345 Juarez
+78123456 Raul
